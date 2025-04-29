@@ -22,7 +22,7 @@ It fetches real-time stock data using the **Finnhub API** and displays it in a c
 
 ## 🚀 Live Demo
 
-[Click Here to View Live Dashboard](https://stock-dashboard-kappa.vercel.app/)
+[Click Here to View Live Dashboard](https://stock-dashboard-khaki.vercel.app/)
 
 ## 🛠 How to Run Locally
 
